@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+
+.header__link_active {
+    border-bottom: 2px solid #000; 
+}
+
+.card__title p span {
+    border-bottom: 2px solid #FFFFFF; 
+    display: inline; 
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+.about__logo-image {
+    width: 148px;
+    height: 114px;
+}
+
+.footer_menu_border {
+    border-bottom: 1px solid #000;
+}
